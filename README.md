@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanhamdy001&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanhamdy001" /> </p>
 
-- 🌱 I’m currently learning **data analytics and machinel learning**
+- 🌱 I’m currently working on **data analytics and machinel learning**
 
 - 👯 I’m looking to collaborate on **data analysis projects**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdelrahman hamdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman hamdy" height="30" width="40" /></a>
+<a href=www.linkedin.com/in/abdelrahman-hamddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman hamdy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
