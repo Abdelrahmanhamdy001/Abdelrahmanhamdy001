@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanhamdy001&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanhamdy001" /> </p>
 
-- 🌱 I’m currently working on **data analytics and machinel learning**
+- 🌱 I’m currently working on **data analytics and machinel learning.**
 
-- 👯 I’m looking to collaborate on **data analysis projects**
+- 👯 I’m looking to collaborate on **data analysis projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdelrahmanhamdy001](https://github.com/Abdelrahmanhamdy001)
 
-- 💬 Ask me about **python, sql, power bi, Excel and statistics**
+- 💬 Ask me about **python, sql, power bi, Excel and statistics.**
 
 - 📫 How to reach me **Abdelrahmanhamdy001@outlook.com**
 
