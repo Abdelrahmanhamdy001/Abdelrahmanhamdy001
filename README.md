@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Hamdy</h1>
-<h3 align="center">A passionate data analyst from Egypt</h3>
+<h3 align="center">A junior data analyst from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanhamdy001&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanhamdy001" /> </p>
 
-- 🌱 I’m currently working on **data analytics and machinel learning.**
+- 🌱 I’m currently working on **data analytics and machine learning.**
 
-- 👯 I’m looking to collaborate on **data analysis projects.**
+- 👯 I’m looking to collaborate on **data analytics projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdelrahmanhamdy001](https://github.com/Abdelrahmanhamdy001)
 
