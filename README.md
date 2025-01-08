@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanhamdy001&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanhamdy001" /> </p>
 
-- 🌱 I’m currently working on **developing highly customized backend solutions using Django and Django rest frameworks with DevOps tools and techniques as Docker, Kubernetes, Ansible,Terraform and AWS cloud.**
+- 🌱 I’m currently working on **developing highly customized backend solutions using Django and Django rest frameworks with experience in DevOps tools and techniques as Docker, Kubernetes, Ansible,Terraform and AWS cloud.**
 
 - 👯 I’m looking to collaborate on **backendprojects using Django and Django rest framework.**
 
